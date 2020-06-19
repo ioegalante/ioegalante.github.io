@@ -1,14 +1,14 @@
-title: SGI HD
-tagline: pagina de SGI HD
-preferences:
-  enconding: UTF-8
+title : SGI HD
+tagline : pagina de SGI HD
+preferences :
+  enconding : UTF-8
   
 before:
-  - type: createIssue
-  title: SGI HD
-  body: 01-welcome.md
-  - type: updateBranchProtection
+ - type : createIssue
+ title : SGI HD
+ body : 01-welcome.md
+ - type : updateBranchProtection
  
- title: Open a pull request
- description: Open a pull request
- event: pull_request.opened
+ title : Open a pull request
+ description : Open a pull request
+ event : pull_request.opened
