@@ -5,7 +5,7 @@ preferences :
   
 before:
  title : SGI HD
- body : 01-welcome.md
+ body : index.html
  
  title : Open a pull request
  description : Open a pull request
